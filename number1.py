@@ -8,12 +8,12 @@ if number == 0:
 elif number < 0:
     print("Number is negative")
     if abs(number) < 1:
-        print("Small")
+        print("Small is small it is < 1")
     
 elif number > 0:
-    print("Positive ")
+    print("Number is Positive ")
     if abs(number) > 1000000:
-        print("Large ")
+        print("Number is Large it is > 1000000 ")
 
 else:
     print()
