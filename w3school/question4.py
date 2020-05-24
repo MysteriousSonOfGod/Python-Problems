@@ -12,7 +12,7 @@ for num in numbers:
 
 
 #print('Minimum number =',minimum_number)
-#Maximum number = 1
+#Minimum number = 1
 
 def find_minimum(*args):
     minimum = args[0]
